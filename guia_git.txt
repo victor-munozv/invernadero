@@ -1,0 +1,12 @@
+* git clone https://github.com/VICTORMUNOZ/invernadero.git
+
+* git init (inicializar repo local)
+
+* git status (el estado de git)
+
+* git log (saber el historial de la rama en la que estoy, por defecto es la master)
+
+1- git add .( agrega al stageinarea , si es un punto lo agrega todo, sino se espesifica la ruta relativa ejemplo invernadero/inv.ino o inv.ino )
+1.1- git status (obvio para revisar si voy bien)
+2- git commit -m "texto" (para escribir un mensaje en el nodo de la rama en donde estoy parado, por defecto en master)
+3- git push (para pushear a la ramma remota, por ejemplo si es que hice un git clone anteriormente esta apuntará alla.) 
